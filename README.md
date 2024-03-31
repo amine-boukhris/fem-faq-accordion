@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [on frontend mentor](https://www.frontendmentor.io/solutions/faqs-accordion-qtmCyg5KKb)
+- Live Site URL: [on netlify](https://6609e068a3590a176629fafb--steady-paletas-460999.netlify.app)
 
 ## My process
 
